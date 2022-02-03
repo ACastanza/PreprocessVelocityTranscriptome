@@ -1,0 +1,2 @@
+# PreprocessVelocityTranscriptome
+Extract transcript and intron sequences from the genome sequence using the eisaR package in order to quantify both intronic (unprocessed) and exonic (processed) RNA abundances in each cell with alevin.<br>A necessary preprocessing step to enable RNA velocity analysis.
